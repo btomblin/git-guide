@@ -36,3 +36,7 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 ```
 
 ![Image 03_create_repo.png](/images/03_create_repo.png)
+
+### If you found this page helpful, please read this next
+
+- [GitHub 101](03_github_101.md) ( 03_github_101.md )

@@ -48,6 +48,8 @@ _Markdown is a lightweight and easy-to-use syntax for styling all forms of writi
 
 # Starting out
 
+  [GitHub 101](03_github_101.md) ( 03_github_101.md )
+  
 - One repository per application (unless otherwise stated by architecture) :white_check_mark:
 - Repository naming (biz vertical / dept + app name) :white_check_mark:
 - All common branches should be [protected](https://help.github.com/en/github/administering-a-repository/about-protected-branches): develop, master, release, etc :white_check_mark:
